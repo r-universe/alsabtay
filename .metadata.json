@@ -1,10 +1,10 @@
 [
   {
-    "package": "ATAforecasting",
+    "package": "fable.ata",
     "oncran": true
   },
   {
-    "package": "fable.ata",
+    "package": "ATAforecasting",
     "oncran": true
   }
 ]
